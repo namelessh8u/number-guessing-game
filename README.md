@@ -27,6 +27,6 @@ After the user has guessed the guessed number, the game displays his number of a
 After winning, the user can play again if he enters the character 'y'. In a new game the user will be able to select the difficulty again. A random number will be generated again.
 
 - [x] The game works correctly
-- [x] It has various range for random number
-- [x] NUMBER OF ATTEMPTS
-- [x] ИГРА ПРОДОРЛЖАЕТСЯ
+- [x] Levels of difficulty
+- [x] Number of attempts
+- [x] End of game
